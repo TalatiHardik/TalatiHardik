@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Hardik Talati.
 
-👀 I’ve worked on spring framework, Angular 2+, Docker
+👀 I’ve worked on Spring framework, Angular 2+, Docker
 
 🌱 I’m currently learning Jenkins
 
