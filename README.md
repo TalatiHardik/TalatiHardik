@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋 Hi, I’m Hardik Talati.
+
+👀 I’ve worked on spring framework, Angular 2+, Docker
+
+🌱 I’m currently learning Jenkins
+
+💞️ I’m looking to collaborate on Web development projects
 
 <!--
 **TalatiHardik/TalatiHardik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
